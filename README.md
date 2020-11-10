@@ -14,3 +14,6 @@ password is dev
 ```bash
 python mask_rcnn.py --mask-rcnn mask-rcnn-coco --image images/IMG_8634b.JPG
 ```
+
+<img src="inference.gif"/>
+
