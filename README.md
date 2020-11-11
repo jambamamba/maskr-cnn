@@ -3,7 +3,7 @@ based on Adrian rosebrock's project - https://www.pyimagesearch.com/2018/11/19/m
 
 ### Requirement
 
-Build and install the leila.docker image. Then run it:
+Build and install the [leila.docker image](https://github.com/jambamamba/leila.docker). Then run the container:
 
 ```bash
 ./enterdocker.sh
